@@ -8,7 +8,7 @@ gem 'bootsnap', '>= 1.1.0', require: false
 gem 'devise'
 gem 'hashdiff', ['>= 1.0.0.beta1', '< 2.0.0']
 gem 'jbuilder', '~> 2.5'
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 3.12'
 gem 'rails', '~> 5.2.3'
 gem 'sassc-rails'
 gem 'therubyracer', platforms: :ruby
